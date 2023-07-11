@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is ✨Aaron Fritz✨ and this is my Github profile!
 
-- 🔭 I’m currently working on ... Completeing my Business Analyst Nano Degree
+- 🔭 I’m currently working on ... Completeing my Business Analyst Nano Degree to become a Marketing Data Analyst.
 - 🌱 I’m currently learning ... Git, SQL, and website design.
 - 📫 How to reach me: ... Connect with me on <a class="social-link" href="https://www.linkedin.com/in/aaron-fritz-3b1b1a114/">LinkedIn!
         </a>
