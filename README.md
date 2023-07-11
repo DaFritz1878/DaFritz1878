@@ -6,4 +6,5 @@
         </a>
 - ⚡ Fun fact: ... I can squat and deadlift over 2x my bodyweight!
 <img src="https://thumbs.gfycat.com/ImpressionableYawningAlpinegoat-size_restricted.gif" alt="My GIF" />
+yes this is me... :D
  
